@@ -7,6 +7,7 @@ To use the library in Visual Studio download the BinaryConverter.dll file, than 
 
 Then include the library at the start of your xxx.cs file with **using BinaryConvert**;
 
+After that, you can use the classes as usual
 
 
       public partial class Form1 : Form
