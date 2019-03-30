@@ -9,7 +9,7 @@ Then include the library at the start of your xxx.cs file with **using BinaryCon
 
 After that, you can use the classes as usual
 
-
+``` C#
       public partial class Form1 : Form
     {
         Dec2Bin dec2Bin;
@@ -34,3 +34,4 @@ After that, you can use the classes as usual
 
        
     }
+```
